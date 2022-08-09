@@ -1,0 +1,57 @@
+body {
+    background-color: #eef5f5;
+    margin: 10%;
+}
+
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(206, 203, 203);
+    font-size: 6vh;
+}
+
+
+img {
+    display: inline-block;
+    width: 100% 100%;
+}
+img.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+#caption {
+    text-align: center;
+    font-size: 25px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+
+div#tribute-data {
+    background-color: rgba(177, 184, 180, 0.25);
+    box-shadow: 20px 20px 20px #9eb2bf;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+
+h1.title-nn {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
+.cap{
+    text-align: center;
+}
